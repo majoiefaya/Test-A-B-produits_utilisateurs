@@ -17,7 +17,7 @@ Le test a été réalisé en plusieurs étapes, comprenant la préparation et l'
 """)
 
 # Charger les données
-file_path = 'AB_Test_Results.csv'  # Remplace par le chemin correct
+file_path = '../AB_Test_Results.csv'  # Remplace par le chemin correct
 data = pd.read_csv(file_path)
 
 # Afficher les premières lignes
