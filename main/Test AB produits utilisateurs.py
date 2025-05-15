@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
+import os
 
 # Titre de l'application
 st.title("Test A/B - Analyse des Revenus")
@@ -17,7 +18,7 @@ Le test a été réalisé en plusieurs étapes, comprenant la préparation et l'
 """)
 
 # Charger les données
-file_path = '../AB_Test_Results.csv'  # Remplace par le chemin correct
+file_path = os.path.join(os.path.dirname(__file__), '../AB_Test_Results.csv')
 data = pd.read_csv(file_path)
 
 # Afficher les premières lignes
