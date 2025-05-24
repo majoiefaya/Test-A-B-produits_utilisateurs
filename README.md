@@ -16,33 +16,29 @@
 
 <h3 align="center">• • •</h3>
 
-## Liens du projet
-
-- [GitHub](https://github.com/ton-utilisateur/ton-projet) <!-- Remplace par le lien réel -->
-
-<h3 align="center">• • •</h3>
-
 ## À propos de ce projet
 
 L'objectif de cette étude était de mener un test A/B pour comparer les revenus générés par deux groupes d'utilisateurs : un groupe contrôle et un groupe variant.  
 Nous avons analysé si le variant testé avait un impact significatif sur les revenus générés par les utilisateurs.
 
----
-
 <h3 align="center">• • •</h3>
 
-## Compétences et outils utilisés
+## Visualisations clés
+
+<!-- Exemple à adapter selon tes visuels -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+  <table>
+    <tr>
+      <td align="center">Boxplot des revenus<br/>
+        <img src="https://github.com/majoiefaya/Test-A-B-produits_utilisateurs/blob/main/assets/Box_plot.png" width="300" alt="Distribution"/>
+      </td>
+      <td align="center">Boxplot des revenus<br/>
+        <img src="https://github.com/majoiefaya/Test-A-B-produits_utilisateurs/blob/main/assets/project_presentation.png" width="300" alt="Importance des variables"/>
+      </td>
+    </tr>
+  </table>
 </p>
-
----
 
 <h3 align="center">• • •</h3>
 
